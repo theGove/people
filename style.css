@@ -1,0 +1,56 @@
+  body{
+    background-image: url("/background.jpg");
+        background-repeat: repeat;
+        background-attachment: fixed;
+          font-family: "Merienda", cursive;
+          font-optical-sizing: auto;
+          font-style: normal;
+        
+  }
+
+  #content{
+    margin:auto;
+    margin-top:2rem;
+    width:1000px;
+    padding: 1rem;
+    background-color: bisque;
+    border: 3px solid darkgray;
+  }
+
+  #name{
+    font-size: 3rem;
+    font-weight: 500;
+    text-align: center;
+    background-color: white;
+    padding-bottom:1rem;
+  }  
+  
+  #image{
+    padding:1rem;
+    background-color: white;
+  }
+
+  .field{
+    background-color: white;
+    border: 1px solid darkgrey;
+    padding: 3px 15px;
+  }  
+  .label{
+   
+  }
+  table{
+    font-size: 2rem;
+    margin: 0 auto;
+  }
+
+  td{
+    padding:5px;
+  }
+
+  .data{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
