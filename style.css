@@ -11,7 +11,7 @@
   #content{
     margin:auto;
     margin-top:2rem;
-    width:95%;
+    max-width:95vw;
     padding: 1rem;
     background-color: bisque;
     border: 3px solid darkgray;
